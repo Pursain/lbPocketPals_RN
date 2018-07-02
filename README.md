@@ -6,12 +6,12 @@ It's core feature of this application is to utilize the fun dog generating api b
 
 ## Feature Log
 ###### V1.0.0
-Randomly generates one picture of random breed upon button press
-Handles async render decently with placeholder image
-Extracts breed from JSON link url
-Optimized and tested only for android
+*Randomly generates one picture of random breed upon button press
+*Handles async render decently with placeholder image
+*Extracts breed from JSON link url
+*Optimized and tested only for android
 
-###### For reference:
-react-native-cli: 2.0.1
-react-native: 0.55.4
-use supported gradle
+##### For reference:
+*react-native-cli: 2.0.1
+*react-native: 0.55.4
+*use supported gradle
