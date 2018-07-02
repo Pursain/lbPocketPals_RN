@@ -2,7 +2,7 @@
 
 This is a React-Native version of the web lbPocketPal.com, a past collaborative hackathon project of mine. The web app is no longer in development but I seek to develop this fun concept further.
 
-It's core feature of this application is to utilize the fun dog generating api by ElliotLandsborough [here](https://github.com/ElliottLandsborough/dog-ceo-api) into a fun fashion. Future functions will be added.
+The core feature of this application is to utilize the fun dog generating api by ElliotLandsborough [here](https://github.com/ElliottLandsborough/dog-ceo-api) into something fun. Future functions will be added.
 
 ## Feature Log
 ###### V1.0.0
